@@ -140,8 +140,8 @@ body.dark-theme {
   width: 120px;
   height: 120px;
   background: linear-gradient(180deg, 
-              hsla(var(--hue), var(--sat), var(--lig), 1) 0%, 
-              hsla(var(--hue), var(--sat), var(--lig), .2) 100%);
+  hsla(var(--hue), var(--sat), var(--lig), 1) 0%, 
+  hsla(var(--hue), var(--sat), var(--lig), .2) 100%);
   border-radius: 50%;
   overflow: hidden;
   display: flex;
@@ -156,8 +156,8 @@ body.dark-theme {
 .profile__border {
   border: 3.5px solid var(--first-color);
   justify-self: center;
-  width: 115px;
-  height: 115px;
+  width: 125px;
+  height: 125px;
   border-radius: 50%;
   display: grid;
   place-items: center;
