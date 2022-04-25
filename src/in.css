@@ -150,14 +150,14 @@ body.dark-theme {
 }
 
 .profile__perfil img {
-  width: 300px;
+  width: 200px;
 }
 
 .profile__border {
   border: 3.5px solid var(--first-color);
   justify-self: center;
-  width: 115px;
-  height: 115px;
+  width: 125px;
+  height: 125px;
   border-radius: 50%;
   display: grid;
   place-items: center;
