@@ -156,8 +156,8 @@ body.dark-theme {
 .profile__border {
   border: 3.5px solid var(--first-color);
   justify-self: center;
-  width: 200px;
-  height: 200px;
+  width: 115px;
+  height: 115px;
   border-radius: 50%;
   display: grid;
   place-items: center;
